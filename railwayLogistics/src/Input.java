@@ -1,5 +1,3 @@
-package com.company;
-
 public class Input extends Thread{
 
     private SortStation station;

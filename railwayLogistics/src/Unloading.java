@@ -1,5 +1,3 @@
-package com.company;
-
 public class Unloading extends Thread{
     private SortStation station;
     private int stuff;
